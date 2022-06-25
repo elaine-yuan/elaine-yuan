@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning: Python.
 - 🤔 I’m looking for help with: Python.
 - 💬 Ask me about: SQL - I love SQL.
-- 📫 How to reach me: email: elaineyuan93@gmail.com 
-                      linkedin: https://www.linkedin.com/in/yuanelaine/
+- 📫 How to reach me: email (elaineyuan93@gmail.com) or linkedin (https://www.linkedin.com/in/yuanelaine/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite fruit is durian. 
