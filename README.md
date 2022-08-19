@@ -1,4 +1,4 @@
-### Project Samples
+## Project Samples
 
 [**Always Alien: An Analysis of Anti-Asian Hate Crimes**](https://www.youtube.com/watch?v=3qsdSkzT2pg&list=PLx0iOsdUOUmkYUVZ61ltDZDVsIzTYGQrR&index=17) | SQL, Tableau, PowerPoint
 
@@ -15,7 +15,7 @@
 * Surfaced insights and animated visualizations on Chinese leadership in the green energy sector using Tableau: in 2019, China produced 30% of global hydro energy, 28% of global wind energy, and 33% of global solar energy
 * Recommended the development of nonrenewable nuclear energy: although nuclear power plants are <1% of total power plants, they accounted for 7.15% of global power plant capacity
 
-### Contact
+## Contact
 
 * email: elaineyuan93@gmail.com
 * LinkedIn: https://www.linkedin.com/in/yuanelaine/
