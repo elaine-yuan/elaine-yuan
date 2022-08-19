@@ -1,6 +1,6 @@
 ### Project Samples
 
-**Always Alien: An Analysis of Anti-Asian Hate Crimes** | SQL, Tableau, PowerPoint | July 2022
+[**Always Alien: An Analysis of Anti-Asian Hate Crimes**](https://www.youtube.com/watch?v=3qsdSkzT2pg&list=PLx0iOsdUOUmkYUVZ61ltDZDVsIzTYGQrR&index=17) | SQL, Tableau, PowerPoint
 
 *Analyzed 219,576 records of national hate crime data and 1,296 records of NYPD hate crime data*
 * Queried NYPD hate crime data using SQL to understand when and where anti-Asian hate crimes occurred in New York City and utilized geospatial data files in Tableau to build visualizations
@@ -8,7 +8,7 @@
 * Determined Queens to be the safest borough with a rate of 4 anti-Asian hate crimes per 100,000 Asians using SQL and visualized the incident count per capita in each borough using Tableau 
 * Designed interactive dashboards in Tableau for audience members to explore a three-decade history of national hate crimes and recent hate crimes by bias in New York City  
 
-**Journey to the Best: Global and Chinese Growth in Green Energy** | Excel, Tableau, PowerPoint | June 2022
+**Journey to the Best: Global and Chinese Growth in Green Energy** | Excel, Tableau, PowerPoint
 
 *Studied 9,745 total records of renewable energy data and 34,936 records of global power plant data*
 * Examined the worldwide growth of renewable energy generation and global power plant capacity in Tableau and discovered a 445% increase in hydroelectricity generation from 1990 to 2019 
