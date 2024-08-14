@@ -23,9 +23,9 @@
 
 ## 🏅 Certifications
 [<img src="https://images.credly.com/size/340x340/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png">](https://www.credly.com/badges/4e13475a-3c67-4ee8-a603-a6338ee34383)
-![PBI]https://github.com/user-attachments/assets/963eaea3-4f51-43c4-9541-23096c29220b)](https://learn.microsoft.com/en-us/users/elaineyuan-3348/credentials/445e29c4a83cfb02)
-![Alteryx Advanced(https://github.com/user-attachments/assets/9895040e-2912-4774-98b8-48c8d648a457)](https://www.credly.com/badges/23eab7be-7374-4928-af6a-373ef1573ffb)
-![AWS Cloud Practitioner(https://github.com/user-attachments/assets/5974e39f-a722-4851-871e-5856b46ee31b)](https://www.credly.com/badges/dd8e3952-edce-4ec3-b666-3c006757cd21)
+![<img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png">](https://learn.microsoft.com/en-us/users/elaineyuan-3348/credentials/445e29c4a83cfb02)
+![img src="https://images.credly.com/size/340x340/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png">](https://www.credly.com/badges/23eab7be-7374-4928-af6a-373ef1573ffb)
+![<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">](https://www.credly.com/badges/dd8e3952-edce-4ec3-b666-3c006757cd21)
 
 ## 📫 Contact
 
