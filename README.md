@@ -1,4 +1,4 @@
-## 💼 Resume
+## 💼 Interactive Resume
 [<img width="1000px" src="https://public.tableau.com/static/images/Re/Resume_16793465431900/Resume/4_3.png">](https://public.tableau.com/app/profile/yuan.elaine/viz/Resume_16793465431900/Resume?publish=yes)
 
 ## 📁 Project Samples
