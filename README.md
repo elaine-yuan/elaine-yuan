@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Elaine
 I'm a Data Analytics Consultant and Data Visualization Expert.
+I enjoy organizing and leveraging data through data visualization.
 
-🔑 Key Skills:
+🔑 Key Skills
 * Tableau
 * Alteryx
 * Microsoft Excel, Google Sheets
