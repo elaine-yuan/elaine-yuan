@@ -1,9 +1,20 @@
+# 👋 Hi, I'm Elaine
+I'm a Data Analytics Consultant and Data Visualization Expert.
+
+🔑 Key Skills:
+* Tableau
+* Alteryx
+* Microsoft Excel, Google Sheets
+* SQL
+* Project Management
+
 ## 💼 Interactive Resume
 [<img width="1000px" src="https://public.tableau.com/static/images/Re/Resume_16793465431900/Resume/4_3.png">](https://public.tableau.com/app/profile/yuan.elaine/viz/Resume_16793465431900/Resume?publish=yes)
 
 ## 📊 Data Viz Projects
 [<img width="200px" src="https://public.tableau.com/static/images/We/WeCanDoAnythingRightBarbieBarbiesCareer1959-2020/Dashboard/4_3.png">](https://public.tableau.com/app/profile/yuan.elaine/viz/WeCanDoAnythingRightBarbieBarbiesCareer1959-2020/Dashboard)[<img width="200px" src="https://public.tableau.com/static/images/Dr/DragRaceRepresent-Asian/Dashboard/4_3.png">](https://public.tableau.com/app/profile/yuan.elaine/viz/DragRaceRepresent-Asian/Dashboard)[<img width="200px" src="https://public.tableau.com/static/images/Si/SipSipHoorayBubbleTeaShopsinNYC/Viz/4_3.png">](https://public.tableau.com/app/profile/yuan.elaine/viz/SipSipHoorayBubbleTeaShopsinNYC/Viz)
 [<img width="200px" src="https://public.tableau.com/static/images/Lo/LoveisBlind/IronRizz/4_3.png">](https://public.tableau.com/app/profile/yuan.elaine/viz/LoveisBlind/IronRizz)[<img width="200px" src="https://public.tableau.com/static/images/Da/DataPlusMoviesStarterDashboard_17007656461150/TheAnimatedMoviesofStudioGhibli/4_3.png">](https://public.tableau.com/app/profile/yuan.elaine/viz/DataPlusMoviesStarterDashboard_17007656461150/TheAnimatedMoviesofStudioGhibli)[<img width="200px" src="https://public.tableau.com/static/images/St/Star-CrossedTwelveExploringtheChineseZodiac/Dashboard/4_3.png">](https://public.tableau.com/app/profile/yuan.elaine/viz/Star-CrossedTwelveExploringtheChineseZodiac/Dashboard)
+See more: [Tableau Public](https://public.tableau.com/app/profile/yuan.elaine/)
 
 ## 📁 Project Samples
 
