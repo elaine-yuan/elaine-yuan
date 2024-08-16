@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elaine
-I'm a Data Analytics Consultant and Data Visualization Expert.
-I enjoy organizing and leveraging data through data visualization.
+**I'm a Data Analytics Consultant and Data Visualization Expert.**
+I organize and leverage data through data visualization.
 
 🔑 Key Skills
 * Tableau
