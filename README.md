@@ -26,7 +26,7 @@ See more: [Tableau Public](https://public.tableau.com/app/profile/yuan.elaine/)
 * Queried NYPD hate crime data using SQL to understand when and where anti-Asian hate crimes occurred in New York City and utilized geospatial data files in Tableau to build visualizations
 * Calculated the increase of anti-Asian hate crimes from 2019 to 2020: a 94% increase nationally contrasted with a 2700% increase in New York City
 * Determined Queens to be the safest borough with a rate of 4 anti-Asian hate crimes per 100,000 Asians using SQL and visualized the incident count per capita in each borough using Tableau 
-* Designed interactive dashboards in Tableau for audience members to explore a three-decade history of national hate crimes and recent hate crimes by bias in New York City  
+* Designed interactive Tableau dashboards for users to explore a three-decade history of national hate crimes and recent hate crimes by bias in New York City  
 
 **Journey to the Best: Global and Chinese Growth in Green Energy** | Excel, Tableau, PowerPoint
 
